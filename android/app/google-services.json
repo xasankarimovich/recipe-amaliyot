@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "544475897070",
+    "project_id": "bloc-amaliyot-0033",
+    "storage_bucket": "bloc-amaliyot-0033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544475897070:android:4d79169f12789e132fe7ff",
+        "android_client_info": {
+          "package_name": "com.example.bloc_todo_amaliyot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544475897070-49uncvmbat55d48tnaq0apgk5hhuf32e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zEx5DfB7evAGuES01ZIKmrbfobgX4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544475897070-49uncvmbat55d48tnaq0apgk5hhuf32e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544475897070-csbopil5i0t8puepatacnodeiac7a4ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blocTodoAmaliyot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544475897070:android:1cd7b322d4da40d62fe7ff",
+        "android_client_info": {
+          "package_name": "com.example.shirinim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544475897070-ssavt6gbmi7pq8bc99o95k6rfooe3m2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shirinim",
+            "certificate_hash": "60b24b96ac67819ff317959f2cb7c91901aa3112"
+          }
+        },
+        {
+          "client_id": "544475897070-49uncvmbat55d48tnaq0apgk5hhuf32e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zEx5DfB7evAGuES01ZIKmrbfobgX4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544475897070-49uncvmbat55d48tnaq0apgk5hhuf32e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544475897070-csbopil5i0t8puepatacnodeiac7a4ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blocTodoAmaliyot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544475897070:android:851541760cd052b52fe7ff",
+        "android_client_info": {
+          "package_name": "com.example.shirinim_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544475897070-49uncvmbat55d48tnaq0apgk5hhuf32e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zEx5DfB7evAGuES01ZIKmrbfobgX4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544475897070-49uncvmbat55d48tnaq0apgk5hhuf32e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544475897070-csbopil5i0t8puepatacnodeiac7a4ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blocTodoAmaliyot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
